@@ -1,0 +1,45 @@
+Algoritimo segue uma sequencia logica
+- Sequencia
+- Decisao
+- Repeticoes
+
+Um programa é construir algoritimos e os algoritimos devem seguir
+uma ordem prescrita
+
+- Pseudocodigo: é um problema a ser resolvido escrito em nossa
+linguagem/lingua (portugues).
+
+- Fluxograma: auxilia (graficamente), é uma visao geral do problema
+a ser resolvido.
+
+- Estrutura sequencial: segue uma estrutura de raciocinio.
+
+- Decisao: Mostra um resultado, mediante decisoes tomadas (pelo sistema
+ou pelo usuario)
+
+- Nao existe uma unica solucao para um problema.
+
+
+  --  Algoritimo Notas dos alunos --
+
+Entrada: Nota dos alunos
+Saida: Media da turma
+
+Inicio
+    leia nota1
+    leia nota2
+    leia nota3
+    leia nota4
+    leia nota5
+
+    media <- (nota1 + naota2 + nata3 + nota4 + nota5) / 5
+
+    se a media for igual a 7 = Aprovado
+    se nao: A media e maior ou menor que 7
+
+    Escreve "Aluno1: ", nota1, "Media: " , media , mensagem media
+    Escreve "Aluno2: ", nota2, "Media: " , media , mensagem media
+    Escreve "Aluno3: ", nota3, "Media: " , media , mensagem media
+    Escreve "Aluno4: ", nota4, "Media: " , media , mensagem media
+    Escreve "Aluno5: ", nota5, "Media: " , media , mensagem media
+Fim

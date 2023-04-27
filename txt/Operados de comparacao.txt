@@ -1,0 +1,12 @@
+Operadores de comparaçao / relacionais:
+Menor que <
+Maior que >
+Igual a =
+Duplo igual a -- ***Utilizar este***
+Diferente de <>
+Diferente de #
+Diferente de !- >>>Utilizar este<<<
+Menor ou igual a <-
+Maior ou igual a >-
+Comparaçao de strings
+(Ersá contifo) $

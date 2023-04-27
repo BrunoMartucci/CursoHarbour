@@ -1,0 +1,11 @@
+31 fechamento caixa 14 nao bate
+
+REQUEST HB_CODEPAGE_UTF8 //chamada para aceitar acentos
+procedure main
+hb_cdselect("UTF8") //chamada para aceitar acentos
+
+
+
+
+
+
