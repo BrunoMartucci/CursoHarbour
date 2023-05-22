@@ -1,11 +1,11 @@
 /*
     Recebe a nota dos alunos.
-    Entrada: 10 notas
+    Entrada: 5 notas
     Saida: A media
 */
 
 
-#define qtd_alunos 10
+#define qtd_alunos 5
 procedure main 
 local nTotnotas, ; //Soma das notas
       nNotadig, ;  //Numero  de notas
@@ -15,7 +15,7 @@ nTotnotas := 0
 nNotadig := 1
 
 //Processamento
-    do while ( nNotadig <= qtd_alunos)
+    do while ( nNotadig <- qtd_alunos)
        input "Forneca a nota do aluno: " to nNota
 
     nNotadig ++
