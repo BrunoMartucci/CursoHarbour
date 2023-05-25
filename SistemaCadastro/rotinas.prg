@@ -1,0 +1,14 @@
+/*
+Config
+*/
+#define ULTIMA_LINHA 23
+#include "inkey.ch"
+procedure config()
+    SET DATE BRITISH
+    SET CENTURY ON
+    SET DELIMITERS ON
+    SET DELIMITERS TO "[]"
+    SET WRAP ON
+    SET MESSAGE TO ULTIMA_LINHA-1 CENTER
+    SET EVENTMASK TO INKEY_ALL
+return

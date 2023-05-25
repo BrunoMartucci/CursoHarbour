@@ -7,8 +7,7 @@ PROCEDURE main()
          nNota, ;          // Valor de uma nota
          nMedia, ;         // Média das notas
          nMateriaFinal, ;  // Nome da materia
-         cChave, ;         // Senha de acesso
-         cOpc              // opcao no sistema
+         cChave            // Senha de acesso
     local cProjeto := "SISTEMA BOLETIM ESCOLAR    "
     local cResponsavel := space(20)
     local cNome := space(20)
@@ -25,6 +24,7 @@ PROCEDURE main()
  end if
     ?
    
+
     set color to "BG+N, M/W,,,W+/GR+"
 
     CLS
